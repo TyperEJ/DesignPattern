@@ -13,4 +13,4 @@ notifications:
     on_success: always
     on_failure: always
 
-script: phpunit tests
+script: phpunit Tests
